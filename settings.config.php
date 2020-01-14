@@ -5,7 +5,7 @@
 
 $localhost   = array(
 	'driver' => 'mysql',
-	'host' => 'localhost',
-	'dbname' => 'kiwilimon',
-	'username' => 'root',
-	'password' => '');
+	'host' => '127.0.0.1',
+	'dbname' => 'test3',
+	'username' => 'test',
+	'password' => 'test3');

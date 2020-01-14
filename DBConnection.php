@@ -1,9 +1,6 @@
 <?php
 /*
  * Class DBConnection
- * Create a database connection using PDO
- * @author jonahlyn@unm.edu
- *
  * Instructions for use:
  *
  * require_once('settings.config.php');          // Define db configuration arrays here
